@@ -1,0 +1,7 @@
+D:\Data\OneDrive - Careered - CTU\CS267\Unit4\Individual Project 2\CSharpColorGraph\CSharpColorGraph\bin\Debug\CSharpColorGraph.exe.config
+D:\Data\OneDrive - Careered - CTU\CS267\Unit4\Individual Project 2\CSharpColorGraph\CSharpColorGraph\bin\Debug\CSharpColorGraph.exe
+D:\Data\OneDrive - Careered - CTU\CS267\Unit4\Individual Project 2\CSharpColorGraph\CSharpColorGraph\bin\Debug\CSharpColorGraph.pdb
+D:\Data\OneDrive - Careered - CTU\CS267\Unit4\Individual Project 2\CSharpColorGraph\CSharpColorGraph\obj\Debug\CSharpColorGraph.csprojAssemblyReference.cache
+D:\Data\OneDrive - Careered - CTU\CS267\Unit4\Individual Project 2\CSharpColorGraph\CSharpColorGraph\obj\Debug\CSharpColorGraph.csproj.CoreCompileInputs.cache
+D:\Data\OneDrive - Careered - CTU\CS267\Unit4\Individual Project 2\CSharpColorGraph\CSharpColorGraph\obj\Debug\CSharpColorGraph.exe
+D:\Data\OneDrive - Careered - CTU\CS267\Unit4\Individual Project 2\CSharpColorGraph\CSharpColorGraph\obj\Debug\CSharpColorGraph.pdb
